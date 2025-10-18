@@ -16,9 +16,6 @@
 * **现代化前端工程**：采用 **Vue3** + **TypeScript** 构建类型安全的前端应用，使用 **Pinia** 进行全局状态管理（如用户 Token），**Vue Router** 管理前端路由并设置导航守卫，**Element Plus** 快速构建美观的 UI 界面。
 * **完整的容器化**：项目所有服务（Go 后端, Vue/Nginx 前端, MySQL, Redis, RabbitMQ）均被容器化，通过 **Docker Compose** 进行编排，实现了真正的**一键部署和环境隔离**，极大简化了开发和运维流程。
 
-## 🏛️ 项目架构图 (Architecture)
-
-![项目架构图](https://i.imgur.com/gK9pSBo.png)
 
 ## 🛠️ 技术栈 (Technology Stack)
 
